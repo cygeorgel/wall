@@ -1,6 +1,6 @@
 # Wall
 
-Light slideshow for your pictures. Show images on a black screen in different size and positions.
+Light slideshow for your pictures. Show images on a black screen in random order / sizes / positions.
 
 ## Installation steps
 
