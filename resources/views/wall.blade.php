@@ -5,7 +5,7 @@
 
         <div class="relative">
 
-            <img src="{{ asset('images/' . $picture) }}" width="{{ $positions['width'] }}px" />
+            <img src="{{ asset('images/show.jpg') }}" />
 
         </div>
 

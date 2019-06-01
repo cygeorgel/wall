@@ -12,13 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+
+    return redirect ('/wall');
+
 });
-
-
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('wall', 'WallController@show');
